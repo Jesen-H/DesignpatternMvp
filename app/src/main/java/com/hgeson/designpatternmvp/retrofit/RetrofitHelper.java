@@ -36,7 +36,7 @@ public class RetrofitHelper {
     private Context context;
     private Retrofit mRetrofit;
     private boolean isTokenRequest = false;
-    private String HOST = context.getString(R.string.default_request);
+    private String HOST = "https://tool.meibbc.com/";
 
     /**
      * RetrofitHelper，默认都是带Token请求
