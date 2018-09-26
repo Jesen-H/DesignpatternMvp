@@ -48,7 +48,7 @@ public class RequestActivity extends Activity implements DataContract.view{
             if (millisUntilFinished / 1000 == 1){
                 tv.setText("正在请求中...");
             }else {
-                tv.setText(millisUntilFinished / 1000 + "");
+                tv.setText(millisUntilFinished / 1000 + ""); 
             }
         }
 
