@@ -10,8 +10,9 @@ import io.reactivex.schedulers.Schedulers;
 
 
 /**
- * RxJava线程切换帮助类
- * Created by Rayman on 2017/5/9.
+ * @Describe：
+ * @Date：2018/9/26
+ * @Author：hgeson
  */
 
 public final class RxSchedulerUtils {

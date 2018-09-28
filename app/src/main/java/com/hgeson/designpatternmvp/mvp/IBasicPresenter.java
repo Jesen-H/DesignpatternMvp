@@ -1,8 +1,9 @@
 package com.hgeson.designpatternmvp.mvp;
 
 /**
- * Presenter Model与View之间的通信桥梁
- * Created by Rayman on 2017/1/10.
+ * @Describe：
+ * @Date：2018/9/26
+ * @Author：hgeson
  */
 public interface IBasicPresenter<T> {
 

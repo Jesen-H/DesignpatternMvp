@@ -3,8 +3,9 @@ package com.hgeson.designpatternmvp.mvp;
 import java.util.ArrayList;
 
 /**
- * View层接口
- * Created by Rayman on 2017/1/10.
+ * @Describe：
+ * @Date：2018/9/26
+ * @Author：hgeson
  */
 public interface IBasicView<T> {
 

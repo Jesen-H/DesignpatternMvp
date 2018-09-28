@@ -2,7 +2,9 @@ package com.hgeson.designpatternmvp.exception;
 
 
 /**
- * Api错误
+ * @Describe：Api错误
+ * @Date：2018/9/26
+ * @Author：hgeson
  */
 public class ApiException extends BaseException {
 

@@ -18,8 +18,9 @@ import io.reactivex.schedulers.Schedulers;
 
 
 /**
- * RxJava+Retrofit请求帮助类
- * Created by Rayman on 2017/5/9.
+ * @Describe：RxJava+Retrofit网络请求
+ * @Date：2018/9/26
+ * @Author：hgeson
  */
 
 public class RxJavaHelper<T> {

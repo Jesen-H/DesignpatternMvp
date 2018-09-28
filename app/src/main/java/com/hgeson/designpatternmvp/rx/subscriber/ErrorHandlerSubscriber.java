@@ -15,11 +15,9 @@ import io.reactivex.disposables.Disposable;
 
 
 /**
- * desc：
- * 封装Subscriber错误状态
- *
- * @author Rayman
- * @date 2017/12/15
+ * @Describe：封装Subscriber错误请求
+ * @Date：2018/9/26
+ * @Author：hgeson
  */
 public abstract class ErrorHandlerSubscriber<T> extends DefaultSubscriber<T> {
 

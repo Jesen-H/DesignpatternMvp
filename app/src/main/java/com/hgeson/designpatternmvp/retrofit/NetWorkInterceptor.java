@@ -12,11 +12,9 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 /**
- * desc:
- * 网络状态拦截器
- *
- * @author Rayman
- * @date 2017/12/15
+ * @Describe：网络状态拦截器
+ * @Date：2018/9/26
+ * @Author：hgeson
  */
 
 public class NetWorkInterceptor implements Interceptor {
