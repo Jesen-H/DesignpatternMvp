@@ -11,7 +11,9 @@ import android.net.NetworkInfo;
 import android.os.Build;
 
 /**
- * Created by Administrator on 2017/4/6.
+ * @Describe：
+ * @Date：2018/9/26
+ * @Author：hgeson
  */
 
 public class NetWorkUtil {
